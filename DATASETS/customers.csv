@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,city,country,signup_date
+1,Austin,David,hsaunders@gmail.com,207-745-4972x958,Woodchester,Russian Federation,2022-11-18
+2,James,Morris,sullivanvincent@hotmail.com,001-632-537-3400x177,Timothyport,Switzerland,2023-05-22
+3,Alison,Walton,ivargas@yahoo.com,001-400-512-7956x485,Kingtown,Andorra,2024-01-10
+4,Donald,Wolfe,richard49@hotmail.com,+1-199-566-9925x808,North Amy,New Caledonia,2024-03-20
+5,Gregory,Larson,brian84@watts-rodgers.net,159-432-4264x555,East Tonyamouth,Swaziland,2023-02-23
+6,Erika,Crawford,hilljeremy@gmail.com,+1-031-729-9021x83513,Ayalaville,Cuba,2023-04-13
+7,Travis,Strong,mark46@hotmail.com,(473)887-3017x0417,North Pamela,Vanuatu,2025-03-03
+8,Rachel,Daniels,tylervasquez@crosby.com,2859911168,Clarkview,Grenada,2025-03-03
+9,Reginald,Castro,larrymatthews@chapman.com,389-737-9517x22916,Floydberg,Saint Lucia,2022-12-03
+10,Christian,Johnson,cunninghamdebbie@anderson.org,3011592262,Elizabethview,Kyrgyz Republic,2023-01-06
+11,Rachel,Collins,cynthia13@hotmail.com,+1-067-426-5537,Kathyton,Marshall Islands,2023-10-04
+12,Jeffery,Haynes,nwilliams@gmail.com,+1-329-104-0813x07301,Port Leahberg,Hungary,2023-09-27
+13,Daniel,Reed,nancy95@pham-gill.com,(430)095-1509x83948,Atkinsonburgh,New Zealand,2025-01-09
+14,Eric,Watson,nicholas48@yahoo.com,7046102561,Rochaton,Norway,2023-03-10
+15,Amber,Dawson,timothycarter@price-lopez.com,365.642.6628x3784,Heathmouth,Belize,2023-04-03
+16,Samuel,Ward,melissa96@gmail.com,(640)352-8743x0176,Stephaniehaven,Mayotte,2025-03-12
+17,Wesley,Murphy,lisatorres@jones-rice.biz,548-947-7236x0385,West Susan,Holy See (Vatican City State),2023-09-30
+18,Francisco,Ruiz,kevinbecker@villarreal.biz,+1-854-905-4421x435,Stephanieborough,Egypt,2025-01-10
+19,Jeffrey,Peterson,avance@decker.org,793.330.1117x846,Sanchezberg,Albania,2024-11-30
+20,Charles,Heath,james00@gmail.com,+1-813-228-2255x2840,West Logan,San Marino,2022-12-12
+21,Alexis,Ruiz,sanchezwilliam@yahoo.com,001-278-882-0659x704,New David,Lao People's Democratic Republic,2023-08-13
+22,Kathy,Acevedo,amyers@rodriguez.biz,(956)938-5130,East Adamstad,Comoros,2024-10-17
+23,Amy,Chen,zaguirre@gmail.com,783.306.8260x617,Bennettland,Northern Mariana Islands,2022-12-04
+24,Jeremiah,Bennett,ythomas@hotmail.com,+1-960-569-5727,Lake Kirstenville,Nepal,2023-06-01
+25,Tracey,Campos,alejandramanning@perry.com,034-981-5483,Wendytown,Zimbabwe,2022-12-29
+26,Lisa,Martin,hwallace@gmail.com,830-687-2334,New Williamtown,Macedonia,2023-10-21
+27,Keith,Kelly,manneric@yahoo.com,(974)692-0498x5365,North Melanieton,Latvia,2024-11-29
+28,Anthony,Cantu,patrick17@yahoo.com,954-017-6071x07603,North Maxwell,United States Minor Outlying Islands,2024-01-17
+29,Nicholas,Benjamin,ogonzalez@gmail.com,050.008.9002,Lake Taraland,Belize,2022-06-15
+30,Michael,Lee,fnewton@yahoo.com,001-181-570-2732x83481,Rowechester,Ecuador,2024-04-30
+31,David,Wiggins,barbararamirez@powell.net,+1-929-420-7208x9476,South Cody,Albania,2023-08-25
+32,Michael,Price,padillakatie@scott.net,9967020364,East Vicki,United Arab Emirates,2024-02-22
+33,Sara,Holloway,alexanderaaron@goodman.com,005-993-4104x2068,West Justin,Cayman Islands,2023-11-15
+34,Diana,Anderson,hodgecatherine@gmail.com,091-253-6916,Ashleybury,Azerbaijan,2024-03-03
+35,Emily,Anderson,fjohnson@moreno.com,266-298-7894x5328,West Courtney,Aruba,2022-06-05
+36,Roger,Jackson,dsanchez@tran-smith.org,844.291.1342,New Cherylside,Chad,2024-01-20
+37,Sara,Smith,sbrown@pace.com,001-784-449-3700x22718,South William,Nigeria,2024-05-13
+38,Anthony,Bush,anthony57@perez.net,001-058-569-1128,Mackside,Mauritania,2022-12-19
+39,Robert,Wade,anelson@baker.org,488.845.5925x877,Russellshire,Malta,2023-09-15
+40,Diane,Chavez,osanders@gmail.com,(830)913-1907,South Susanberg,Saint Lucia,2022-07-19
+41,Sandra,King,johnparks@gmail.com,049.169.7779,East Alishastad,Singapore,2024-07-15
+42,Jessica,Taylor,nicolascannon@duke.com,001-704-464-6098x1308,South Joshua,Mali,2024-04-10
+43,Jessica,Weaver,nguyendeborah@gonzalez-miller.com,(484)359-3043x74193,East Anna,Switzerland,2025-01-16
+44,Shawn,Reynolds,samantharivera@conner-mckenzie.com,478.244.3071x8288,Danielmouth,Eritrea,2023-12-21
+45,Carmen,Silva,alyssapayne@cline.com,+1-317-367-0805x194,Port Christophermouth,Jordan,2025-03-29
+46,Andrew,Erickson,proctormichael@gmail.com,6117682032,Ericksonton,Greenland,2023-08-19
+47,Amy,Branch,cassandra16@wilson-edwards.com,001-365-752-7179x91276,Port Matthewton,Tonga,2024-11-22
+48,Jason,Miller,jessica88@pratt.biz,(495)491-4723,North Holly,Tunisia,2023-05-29
+49,Joseph,Cuevas,becky18@clark-kelly.com,001-361-484-5432x05858,Raybury,Costa Rica,2024-12-08
+50,Benjamin,Johnson,smorgan@hotmail.com,+1-094-319-9394,Nancybury,Mozambique,2023-10-16
+51,Eileen,Miller,pennycox@lambert-oconnor.info,+1-369-420-3217x811,Whiteberg,Andorra,2023-07-01
+52,Joshua,Armstrong,bianca59@mitchell-jacobs.com,494-118-0853,Port Dominique,Comoros,2023-12-27
+53,Brandon,Johns,jenniferdickson@gmail.com,663.960.3697,Melanieshire,Ecuador,2025-01-22
+54,Christopher,Rodriguez,priscilla94@perkins-wilson.biz,365.510.6936x7045,Hobbsborough,Sierra Leone,2022-10-13
+55,Andrea,Clay,christopher04@gmail.com,931.082.5844,Rodgersland,Malawi,2023-09-11
+56,Kyle,Hensley,matthewfigueroa@williams.com,(284)885-2338x76713,North Lisa,Eritrea,2022-06-17
+57,Michelle,Vasquez,amandashepard@yahoo.com,+1-037-477-9519x51160,Villegasmouth,Guam,2024-03-13
+58,Raymond,Casey,lori35@juarez-walker.com,542.417.8527x5362,West Stephen,Liberia,2023-12-07
+59,Sarah,Phillips,brownjonathan@hotmail.com,1103387494,West Carmen,Saint Helena,2023-12-03
+60,Susan,Lopez,chad14@mcintosh.org,(088)974-3749,South Catherine,Cocos (Keeling) Islands,2025-03-09
+61,Cynthia,Gilbert,stephaniesnyder@hotmail.com,646-047-6242x1438,North Feliciaburgh,Russian Federation,2023-07-07
+62,Phillip,Jackson,ashleygilbert@gmail.com,098-835-8869x1173,Smithfurt,Samoa,2025-01-31
+63,Hannah,Diaz,kathryn40@strong.com,313.372.4452x479,Rachelstad,Macao,2024-03-29
+64,Lee,Fernandez,amyrivera@yahoo.com,(618)241-3562,South Brendafort,Panama,2024-01-22
+65,Ricardo,Thomas,jennifer75@ramos-ramos.org,+1-930-972-7126x9944,Williamsstad,United States of America,2025-04-07
+66,Jackie,Ferguson,seanjohnson@hotmail.com,564-468-4383x434,Georgehaven,El Salvador,2022-07-25
+67,Lisa,Barnett,greendevin@stanley.net,277-451-3923x871,Paulaville,Albania,2022-08-07
+68,Tonya,Parsons,aaron24@gmail.com,861.063.1805,Lake Jamie,Montenegro,2025-04-08
+69,Jacob,Rodriguez,leegabriela@hotmail.com,771-590-8680,Paulafurt,Cuba,2024-08-23
+70,Alexis,Miller,gfletcher@johnson.com,7608159373,East Ashleyside,Seychelles,2022-08-12
+71,Jennifer,Price,xriley@underwood.biz,001-769-156-5900x413,West Bernardshire,Cook Islands,2024-08-10
+72,John,Brown,jennifer20@hotmail.com,048.037.5573,Anthonyview,Macedonia,2022-12-27
+73,Melanie,Clark,austin11@hotmail.com,042.728.4115x66234,East Amanda,Saint Lucia,2023-08-08
+74,Melissa,Carr,lmyers@mcneil.com,+1-962-389-9494,Martinfurt,Nicaragua,2023-01-02
+75,Cassandra,Clark,krista83@hotmail.com,067.254.8941x9492,North Amy,Fiji,2022-07-20
+76,Wendy,Rhodes,jack01@gmail.com,(788)660-2394,Schwartzchester,Indonesia,2025-01-14
+77,Vincent,Pugh,jeanette54@valdez-bruce.com,219.715.2480x1853,New Anthony,Chad,2025-04-07
+78,Robert,Williams,justinbrown@scott.com,275.796.5152x160,Parkerchester,Cook Islands,2022-09-05
+79,Ashley,Jones,fitzgeraldvalerie@garcia.com,694.523.8030x70123,South Brandonton,Christmas Island,2024-08-02
+80,Karen,Adkins,tiffanyjames@terry-bryant.org,653-324-1530x2924,Port Stevenbury,Colombia,2025-04-15
+81,Erika,Owens,andrea68@torres.biz,001-970-189-6699x63087,Johnstonland,Falkland Islands (Malvinas),2024-02-02
+82,Eduardo,Smith,maymarilyn@coleman.info,849-586-1382,Wongberg,Palestinian Territory,2024-01-19
+83,Tina,Jackson,eolsen@hotmail.com,774.472.0051,New Russell,Liechtenstein,2022-12-18
+84,Mark,Jones,joy63@yahoo.com,(148)475-7613x106,East Brianna,Jordan,2024-05-17
+85,Norma,Wolf,brianking@hotmail.com,475-492-2061,Port Steven,Cape Verde,2024-02-25
+86,Chad,Fisher,seanwest@yahoo.com,+1-131-971-2431x229,Zamoratown,United States Minor Outlying Islands,2023-08-26
+87,James,Barrett,kfaulkner@taylor.com,977.322.3927x715,Kendraberg,Oman,2024-08-27
+88,Ann,Alvarez,gpittman@hotmail.com,653-376-6882,Port Reneeland,Isle of Man,2024-01-30
+89,John,Washington,elowe@jones.com,001-598-431-2601x92384,Medinaville,Malta,2024-08-28
+90,Courtney,Washington,moodydonald@ayala.org,965.757.5922x102,Lake Christopher,Antarctica (the territory South of 60 deg S),2024-10-18
+91,Colleen,Williams,briggsmichael@walters-parker.com,447.037.4143x1383,South Ann,Faroe Islands,2024-09-18
+92,Ralph,Brooks,twright@boyer-wood.com,+1-727-748-7442x819,Port Triciashire,Brazil,2022-11-06
+93,Kenneth,Sullivan,selliott@yahoo.com,001-936-294-3789x2064,Johnsonberg,Uganda,2022-08-03
+94,Stephanie,Anderson,kimjanet@gmail.com,519.870.5196x9737,Lake Scott,Rwanda,2024-11-12
+95,Jacob,Foster,tyler29@beltran.net,6936657409,North Michelle,Guatemala,2024-07-23
+96,William,Smith,brucewalsh@gmail.com,(763)088-9445x5679,Mikebury,Iraq,2024-01-19
+97,Steven,Williams,ggilbert@morris.com,599-724-1284,Raymouth,British Indian Ocean Territory (Chagos Archipelago),2023-09-21
+98,Jonathan,Valdez,thompsonwillie@hotmail.com,(659)598-8944x4040,Lake Christopherville,Argentina,2024-12-03
+99,Joshua,Baker,cathy78@yang.com,782.387.1440,West Joshua,Kiribati,2025-02-11
+100,Steve,Brown,khumphrey@davis.com,001-505-906-6246x238,South Tiffany,Albania,2024-07-09
