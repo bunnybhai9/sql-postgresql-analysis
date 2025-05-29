@@ -92,9 +92,8 @@ The project consists of the following tables:
 
 ## 🚀 Author
 
-**Rupesh [Your Last Name]**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME/)  
-📫 Email: your.email@example.com
+**Rupesh karkera**    
+📫 Email: rupeshkarkera1@gmail.com
 
 ---
 
